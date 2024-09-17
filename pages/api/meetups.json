@@ -2,14 +2,14 @@
   {
     "id": 1,
     "title": "First Meetup",
-    "image": "https://a.storyblok.com/f/213578/1494x1118/ee1be781df/kw38-2024-startseite-kaschmir.jpg/m/",
+    "image": "",
     "address": "123 Main St, City",
     "description": "This is the first meetup of our group."
   },
   {
     "id": 2,
     "title": "Second Meetup",
-    "image": "https://a.storyblok.com/f/213578/960x790/6522d74fbd/kw38-2024-startseite-teppiche.jpg/m/",
+    "image": "",
     "address": "123 Main St, City",
     "description": "This is the first meetup of our group."
   },
